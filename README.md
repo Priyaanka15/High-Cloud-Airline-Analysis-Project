@@ -32,7 +32,8 @@
 10. MainData_Final
 
 # 📊 Dashboard:
-![image](https://github.com/Priyanka1321/High-Cloud-Airline-Analysis-Project/assets/164537891/58012607-ed23-47db-9bf3-bbaf49509efc)
+![image](https://github.com/Priyanka1321/High-Cloud-Airline-Analysis-Project/assets/164537891/2a20aeb1-8d44-4763-8ab2-313fe40463b3)
+
 
 
 # 📊 Key Insights:
