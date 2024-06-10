@@ -46,7 +46,8 @@
 
 2.Top Routes:
 
-    • High flight volumes on routes like Atlanta GA-New York and Boston MA-New York indicate significant passenger traffic, essential for optimizing scheduling and pricing.
+    • High flight volumes on routes like Atlanta GA-New York and Boston MA-New York indicate significant passenger traffic,
+      essential for optimizing scheduling and pricing.
 
 3.Flights by Distance:
 
@@ -54,7 +55,7 @@
 
 4. Carrier Performance:
 
-    • Major carriers like Southwest, Delta, and US Airlines dominate with high load factors.
+   • Major carriers like Southwest, Delta, and US Airlines dominate with high load factors.
 
 
 
