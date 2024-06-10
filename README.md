@@ -43,16 +43,16 @@
 
   • Highest load factor observed in July at 81.50%.
 
-3.Top Routes:
+2.Top Routes:
 
   • High flight volumes on routes like Atlanta GA-New York and Boston MA-New York indicate significant passenger traffic, essential for optimizing scheduling and pricing.
 
-4.Flights by Distance:
+3.Flights by Distance:
 
   • Majority of flights are shorter routes, suggesting a focus on high-frequency, short-distance travel.
 
-5. Carrier Performance:
-   
+ 4. Carrier Performance:
+
   • Major carriers like Southwest, Delta, and US Airlines dominate with high load factors.
 
 
