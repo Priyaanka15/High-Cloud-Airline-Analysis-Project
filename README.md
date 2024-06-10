@@ -31,19 +31,24 @@
 9.	Origin Markets
 10. MainData_Final
 
+# 📊 Dashboard:
+![image](https://github.com/Priyanka1321/High-Cloud-Airline-Analysis-Project/assets/164537891/58012607-ed23-47db-9bf3-bbaf49509efc)
+
+
 # 📊 Key Insights:
 
 1.	Load Factor Trends:
 •	Consistently high load factors (75.41% to 78.12%) show efficient seat utilization.
+
 •	Highest load factor observed in July at 81.50%.
 
-2.	Top Routes:
+3.	Top Routes:
 •	High flight volumes on routes like Atlanta GA-New York and Boston MA-New York indicate significant passenger traffic, essential for optimizing scheduling and pricing.
 
-3.	Flights by Distance:
+4.	Flights by Distance:
 •	Majority of flights are shorter routes, suggesting a focus on high-frequency, short-distance travel.
 
-4.	Carrier Performance:
+5.	Carrier Performance:
 •	Major carriers like Southwest, Delta, and US Airlines dominate with high load factors.
 
 
