@@ -1,12 +1,12 @@
 # High Cloud Airline Analysis using Power BI✈️
 
-🚀Objective:
+# 🚀Objective:
 
 1.	Understand market demand and customer preferences.
 2.	Analyze operational performance using available data.
 3.	Identify high-demand routes to optimize scheduling and resource allocation.
    
-🔍 Analysis Steps:
+# 🔍 Analysis Steps:
 
 1.	Problem Statement
 2.	Data Collection & Import
@@ -14,11 +14,11 @@
 4.	Data Analysis & Visualization
 5.	Insights Sharing
    
-🛠️ Tool Used:
+# 🛠️ Tool Used:
 
 • Power BI as Power BI is a powerful tool for visualizing and exploring data.
 
-📊 Dataset:
+# 📊 Dataset:
 
 1.	Aircraft Groups
 2.	Aircraft Types
@@ -31,7 +31,7 @@
 9.	Origin Markets
 10. MainData_Final
 
-📊 Key Insights:
+# 📊 Key Insights:
 
 1.	Load Factor Trends:
 •	Consistently high load factors (75.41% to 78.12%) show efficient seat utilization.
@@ -48,13 +48,13 @@
 
 
 
-💡 Recommendations:
+# 💡 Recommendations:
 
 1.	Optimize Route Frequencies: Focus on high-demand routes to maximize passenger traffic.
 2.	Enhance Carrier Services: Improve services for top carriers to cater to passenger preferences.
 3.	Target Peak Travel Times: Utilize weekends for promotions, capitalizing on slightly higher load factors.
 4.	Optimize Scheduling: Adjust flight schedules based on load factor analysis to meet passenger demand efficiently.
    
-📈 Conclusion: 
+# 📈 Conclusion: 
 
 Efficient operations and consistent load factors indicate a well-optimized airline. By focusing on high-demand routes and peak travel times, airlines can enhance operational efficiency and customer satisfaction.
