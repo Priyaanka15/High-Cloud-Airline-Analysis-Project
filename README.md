@@ -37,12 +37,14 @@
 
 # 📊 Key Insights:
 
-1.	Load Factor Trends:
-•	Consistently high load factors (75.41% to 78.12%) show efficient seat utilization.
+# 1.Load Factor Trends:
 
-•	Highest load factor observed in July at 81.50%.
+ •	Consistently high load factors (75.41% to 78.12%) show efficient seat utilization.
 
-3.	Top Routes:
+ •	Highest load factor observed in July at 81.50%.
+
+# 3.Top Routes:
+
 •	High flight volumes on routes like Atlanta GA-New York and Boston MA-New York indicate significant passenger traffic, essential for optimizing scheduling and pricing.
 
 4.	Flights by Distance:
